@@ -26,3 +26,7 @@ The application allows users to create accounts, browse available concerts, filt
     Single-user desktop application
     Focus on basic CRUD operations and database interaction
 
+
+https://github.com/user-attachments/assets/426b82e3-fad0-43fe-a8bc-cde9322723eb
+
+
